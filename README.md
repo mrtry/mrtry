@@ -36,11 +36,16 @@
 | 2019年10月 - | シェアフル株式会社 | エンジニア(React Native)  |
 
 
+# 学歴
+
+| 期間 | 学校名 |
+| --- | --- | --- |
+| 2009年04月 - 2014年03月 | 釧路工業高等専門学校 情報工学科 |
+| 2014年04月 - 2016年03月 | 釧路工業高等専門学校 電子情報システム工学専攻 |
+
+
 # 登壇経歴
 
 ## React NativeとExpoを用いたクロスプラットフォーム開発入門(Droid Kaigi 2019)
-
-Androidエンジニアの文脈でReact Nativeと、そのtoolchainであるExpoを用いたアプリ開発の実際について発表した
-
 - [スライド](https://speakerdeck.com/mrtry/react-nativetoexpowoyong-itakurosupuratutohuomukai-fa-ru-men)
 - [YouTube](https://www.youtube.com/watch?v=Mp0-Avyi8Ec)
