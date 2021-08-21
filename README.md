@@ -53,6 +53,10 @@
 
 # 登壇経歴
 
+## DXをバク上げするためにいろいろやったこと(React Native Meetup #12 LT大会!)
+- [スライド](https://speakerdeck.com/mrtry/improving-the-development-environment-for-react-native)
+- [connpass](https://react-native-meetup.connpass.com/event/210587/)
+
 ## React NativeとExpoを用いたクロスプラットフォーム開発入門(Droid Kaigi 2019)
 - [スライド](https://speakerdeck.com/mrtry/react-nativetoexpowoyong-itakurosupuratutohuomukai-fa-ru-men)
 - [YouTube](https://www.youtube.com/watch?v=Mp0-Avyi8Ec)
