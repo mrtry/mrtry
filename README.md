@@ -53,19 +53,20 @@
 
 # 登壇経歴
 
-## react-nativeアプリでflow-typeからTypeScriptに移行する際に取り組んだことまとめ(TECH STAND #6 TypeScript)
+## react-nativeアプリでflow-typeからTypeScriptに移行する際に取り組んだことまとめ
 - [スライド](https://speakerdeck.com/mrtry/what-i-worked-on-when-migrating-from-flow-typed-to-typescript-in-a-react-native-app)
-- [イベントページ](https://standfm.connpass.com/event/229027/)
+- [イベントページ: TECH STAND #6 TypeScript](https://standfm.connpass.com/event/229027/)
 
-## 4年運用した秘伝のReact Nativeアプリをチーム開発できるようにするまでにしたこと(React Native Matsuri 2021)
+## 4年運用した秘伝のReact Nativeアプリをチーム開発できるようにするまでにしたこと
 - [スライド](https://speakerdeck.com/mrtry/enabling-team-development-of-a-secret-react-native-app-that-has-been-in-operation-for-four-years)
-- [イベントページ](https://reactnative-matsuri.com/ja)
+- [イベントページ: React Native Matsuri 2021](https://reactnative-matsuri.com/speakers/0g6qQRfZowrYSv0wAfla)
+- [YouTube](https://www.youtube.com/watch?v=OGsR3O4qu6s&t=30277s)
 
-## DXをバク上げするためにいろいろやったこと(React Native Meetup #12 LT大会!)
+## DXをバク上げするためにいろいろやったこと
 - [スライド](https://speakerdeck.com/mrtry/improving-the-development-environment-for-react-native)
-- [イベントページ](https://react-native-meetup.connpass.com/event/210587/)
+- [イベントページ: React Native Meetup #12 LT大会!](https://react-native-meetup.connpass.com/event/210587/)
 
-## React NativeとExpoを用いたクロスプラットフォーム開発入門(Droid Kaigi 2019)
+## React NativeとExpoを用いたクロスプラットフォーム開発入門
 - [スライド](https://speakerdeck.com/mrtry/react-nativetoexpowoyong-itakurosupuratutohuomukai-fa-ru-men)
+- [イベントページ: Droid Kaigi 2019](https://droidkaigi.jp/2019/timetable/70901)
 - [YouTube](https://www.youtube.com/watch?v=Mp0-Avyi8Ec)
-- [イベントページ]()
