@@ -53,6 +53,11 @@
 
 # 登壇経歴
 
+## リリース時までに知っておきたい署名まわりの話
+
+- [スライド](https://speakerdeck.com/mrtry/what-you-need-to-know-about-signatures-by-the-time-of-release)
+- [イベントページ: React Native | JMDC TECH Talk #1](https://jmdc-event.connpass.com/event/234301/)
+
 ## react-nativeアプリでflow-typeからTypeScriptに移行する際に取り組んだことまとめ
 - [スライド](https://speakerdeck.com/mrtry/what-i-worked-on-when-migrating-from-flow-typed-to-typescript-in-a-react-native-app)
 - [イベントページ: TECH STAND #6 TypeScript](https://standfm.connpass.com/event/229027/)
