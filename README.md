@@ -53,7 +53,7 @@
 | --- | --- |
 | 2009年04月 - 2014年03月 | [釧路工業高等専門学校](https://www.kushiro-ct.ac.jp/) 情報工学科 |
 | 2014年04月 - 2016年03月 | [釧路工業高等専門学校](https://www.kushiro-ct.ac.jp/) 電子情報システム工学専攻 |
-| 2021年10月 - 在籍中 | [放送大学](https://www.ouj.ac.jp/) 選択科履修生(認定心理士取得のため入学) |
+| 2021年10月 - 在籍中 | [放送大学](https://www.ouj.ac.jp/) 選択科履修生([認定心理士](https://www.ouj.ac.jp/hp/purpose/sikaku/psychology/psychologist/)取得のため入学) |
 
 
 # 登壇経歴
