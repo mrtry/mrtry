@@ -37,7 +37,8 @@
 | 2018年09月 - 2019年07月 | 株式会社SideWorks | エンジニア(React Native) |
 | 2020年09月 - 2021年03月 | [株式会社ventus](https://ventus-inc.com/) | 技術顧問(React Native) |
 | 2019年10月 - 2021年12月 | [シェアフル株式会社](https://sharefull.com/about/) | エンジニア(React Native)  |
-| 2021年03月 - 現職 | [BonBon株式会社](https://bon-bon.co.jp/) | 技術顧問(React Native) |
+| 2022年03月 - 現職 | [BonBon株式会社](https://bon-bon.co.jp/) | 技術顧問(React Native) |
+| 2023年01月 - 現職 | [株式会社ventus](https://ventus-inc.com/) | 技術顧問(React Native) |
 
 
 ## その他
