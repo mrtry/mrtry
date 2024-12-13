@@ -62,3 +62,4 @@
   - 会社ブログ
     - [JMDC Tech Blog](https://techblog.jmdc.co.jp/search?q=%40mrtry+)
     - [OTOBANK Engineering Blog](https://engineering.otobank.co.jp/search?q=mrtry)
+- [はてブされたもの](https://b.hatena.ne.jp/q/mrtry?target=text)
