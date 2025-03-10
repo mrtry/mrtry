@@ -6,7 +6,7 @@
 | 誕生日 | 1993/04/02 |
 | 趣味 | 歌唱/料理/DIY/マンガ/アニメ |
 | Strength Finder | 運命思考/個別化/学習欲/内省/回復思考 |
-| 16 Personalities | [ENTJ](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
+| MBTI | [ENTJ](https://www.16personalities.com/ja/entj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)@2025 ← [ESFJ](https://www.16personalities.com/ja/esfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)@2021|
 
 # SNS
 
@@ -24,7 +24,7 @@
 | --- | --- | --- |
 | 2016年04月 - 2018年04月 | [株式会社オトバンク](https://www.otobank.co.jp/) | Engineer(Backend(PHP) / Android / React Native) |
 | 2018年07月 - 2021年01月 | [株式会社ノハナ](https://nohana.co.jp/) | Engineer(Android) |
-| 2021年03月 - 現職 | [株式会社JMDC](https://www.jmdc.co.jp/) | Engineer(Mobile/React Native) / Engineer Manager / Scrum Master |
+| 2021年03月 - 現職 | [株式会社JMDC](https://www.jmdc.co.jp/) | Engineer(Mobile/React Native) / Scrum Master |
 
 ## システム開発に関する職歴(副業)
 
