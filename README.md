@@ -16,7 +16,7 @@
 
 # 職務経歴（略歴）
 
-詳細な職務経歴については[こちら](https://gist.github.com/mrtry/f4cb4d749b79dfeebe26ef3504a3f681)をご確認ください
+詳細な職務経歴については[こちら](./curriculum-vitae.md)をご確認ください
 
 ## システム開発に関する職歴(本業)
 
