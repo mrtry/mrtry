@@ -149,7 +149,7 @@ React Nativeを主軸とするシニアソフトウェアエンジニア。モ�
 
 | 活動内容                       | 期間            |
 | :----------------------------- | :-------------- |
-| React Native Japan Meetup 運営 | 2022年 - 現在   |
+| [React Native Meetup](https://react-native-meetup.connpass.com/) 運営 | 2022年 - 現在   |
 | メンター (TechBowl, MENTA)     | 2021年 – 2025年 |
 
 ## **Public Output**
